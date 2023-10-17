@@ -3,7 +3,7 @@
     "background_color": "#35f673",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "index.html",
     "name": "ReportesPWA",
     "short_name": "RPWA",
     "description": "PWA de pruebas",
